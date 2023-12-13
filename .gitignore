@@ -1,0 +1,17 @@
+# linux
+*~
+.fuse_hidden*
+.Trash-*
+
+# General
+.DS_Store
+._*
+
+# specific files
+TODO
+
+# specific directories
+__pycache__
+results
+mbridges.egg-info
+.venv

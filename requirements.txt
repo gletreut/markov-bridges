@@ -1,0 +1,6 @@
+setuptools
+numpy
+scipy
+cupy
+matplotlib
+imageio[ffmpeg]
