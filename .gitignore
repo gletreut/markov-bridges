@@ -7,11 +7,9 @@
 .DS_Store
 ._*
 
-# specific files
-TODO
-
 # specific directories
 __pycache__
+.ipynb_checkpoints
 results
 mbridges.egg-info
 .venv
